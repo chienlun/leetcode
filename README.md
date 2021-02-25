@@ -100,7 +100,6 @@
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/description)| [Python ](./tree/Yu/110_isBalanced.py) | _O(N)_| _O(h)_  |
-|107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| [Python ](./tree/Yu/107.py) | _O(N)_| _O(h)_  |
 |112|[Path Sum](https://leetcode.com/problems/path-sum/#/description)| [Python ](./tree/Yu/112_hasPathSum.py) | _O(N)_| _O(h)_ |[:tv:](https://www.youtube.com/watch?v=LgtcGjIuE18&feature=youtu.be)|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Python ](./tree/Yu/100_isSameTree.py) | _O(N)_| _O(1)_|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description)| [Python ](./tree/Yu/101_symmetricTree.py)| _O(N)_| _O(1)_|[:tv:](https://youtu.be/3Gl4F29LVpQ)|
@@ -138,13 +137,13 @@
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
 |78|[Subsets](https://leetcode.com/problems/subsets/#/description)| [Python ](./backtrack/Yu/78.py) | _O(N*(2^N))_| _O(2^N)_|[:tv:](https://youtu.be/Az3PfUep7gk)|
-|90|[Subsets II](https://leetcode.com/problems/subsets-ii/#/description)| [Python ](./backtrack/Yu/90.py) | _O(N*(2^N))_| _O(2^N)_  |  [:tv:](https://youtu.be/Az3PfUep7gk)|
-|46|[Permutations](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/46.py) | _O(N*(N!))_| _O(N!)_  |  [:tv:](https://www.youtube.com/watch?v=oCGMwvKUQ_I&feature=youtu.be)|
-|47|[Permutations II](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/47.py) | _O(N*(N!))_| _O(N!)_  |  [:tv:](https://youtu.be/imLl2s9Ujis)|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/#/description)| [Python ](./backtrack/Yu/90.py) | _O(N*(2^N))_| _O(2^N)_  ||
+|46|[Permutations](https://leetcode.com/problems/permutations/#/description)| [Python ](./backtrack/Yu/46.py) | _O(N*(N!))_| _O(N!)_  |  [:tv:](https://youtu.be/oCGMwvKUQ_I)|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/#/description)| [Python ](./backtrack/Yu/47.py) | _O(N*(N!))_| _O(N!)_  |  [:tv:](https://youtu.be/imLl2s9Ujis)|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/#/description)| [Python ](./backtrack/Yu/60.py) | _O(N * (N!)_| _O(N)_  ||
 |77|[Combinations](https://leetcode.com/problems/combinations/#/description)| [Python ](./backtrack/Yu/77.py) | _O(N*(N!))_| _O(N!)_   ||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  |  [:tv:](https://youtu.be/HdS5dOaz-mk)|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/solutions)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  |  [:tv:](https://youtu.be/HdS5dOaz-mk)|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/#/solutions)| [Python ](./backtrack/Yu/39.py) | _O(K * (2^N)_| _O(N)_  ||
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/#/description)| [Python ](./backtrack/Yu/216.py) | _O(K * (2^N)_| _O(N)_  ||
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)| [Python ](./backtrack/Yu/17.py) | _O(N*(4^N))_| _O(N)_  |  [:tv:](https://www.youtube.com/watch?v=7KZWLM9QtRA)|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)| [Python ](./backtrack/Yu/131.py) | _O(N*(2^N))_| _O(N)_  |  [:tv:](https://youtu.be/UFdSC_ml4TQ)|
